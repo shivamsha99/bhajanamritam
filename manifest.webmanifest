@@ -1,0 +1,9 @@
+{
+  "name": "भजनामृतम्",
+  "short_name": "भजनामृतम्",
+  "lang": "hi",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#faf8f5",
+  "theme_color": "#71382d"
+}
